@@ -1,0 +1,17 @@
+.box{
+    width: 200px;
+    border: 2px solid black;
+    display: flex-end;
+    /* justify-content: space-between; space around */
+    justify-content: center; /*vertically*/
+    align-items: flex-end; /*horizental  align-items: stretch;*/
+  
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: blanchedalmond 3px dotted;
+   
+    font-size: 3em;
+}
