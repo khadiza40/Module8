@@ -1,0 +1,20 @@
+.calender{
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: repeat(7,1fr);
+
+    
+}
+.date{
+    color:rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 3em;
+    font-family: cursive;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgb(53, 65, 70);
+    border: 2px solid blue;
+  
+}
